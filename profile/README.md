@@ -4,6 +4,22 @@ This is a shared organization for current & future Duke AIPI (Artificial Intelli
 The goal is to foster lifelong learning, create a project archive, and collaborate on projects & ideas. 
 Our vision is to develop leaders equipped to build innovative products and services across industries using AI/ML.
 
+Table of Contents [WIP]
+------------------------
+
+* [AIPI540 Deep Learning Application Repository][540Repo]
+* [Cloud Data Analysis at Scale][CDASRepo]
+* [AIPI510 Class Exercises][510Repo]
+* [AIPI520 Class Exercises][520Repo]
+
+
+
+
+[540Repo]: https://github.com/DukeAIPI/AIPI540-Deep-Learning-Applications
+[510Repo]: https://github.com/DukeAIPI/AIPI510_class_exercises
+[520Repo]: https://github.com/DukeAIPI/AIPI520_class_exercises
+[CDASRepo]: https://github.com/DukeAIPI/cloud-data-analysis-at-scale
+
 <!--
 
 **Here are some ideas to get you started:**
