@@ -7,18 +7,25 @@ Our vision is to develop leaders equipped to build innovative products and servi
 Table of Contents [WIP]
 ------------------------
 
-* [AIPI540 Deep Learning Application Repository][540Repo]
-* [Cloud Data Analysis at Scale][CDASRepo]
-* [AIPI510 Class Exercises][510Repo]
-* [AIPI520 Class Exercises][520Repo]
-
-
+* Class Repositories
+  * [AIPI540 Deep Learning Application Repository][540Repo]
+  * [Cloud Data Analysis at Scale][CDASRepo]
+  * [AIPI510 Class Exercises][510Repo]
+  * [AIPI520 Class Exercises][520Repo]
+  * [Python Data Science Bootcamp Notes][PDSBRepo]
+ 
+* Projects & Demos
+  * [AIPI530 DeepRL final project example][OfflineRLRepo]
+  * [CycleGAN demo][CycleGANDemoRepo]
 
 
 [540Repo]: https://github.com/DukeAIPI/AIPI540-Deep-Learning-Applications
 [510Repo]: https://github.com/DukeAIPI/AIPI510_class_exercises
 [520Repo]: https://github.com/DukeAIPI/AIPI520_class_exercises
 [CDASRepo]: https://github.com/DukeAIPI/cloud-data-analysis-at-scale
+[OfflineRLRepo]: https://github.com/DukeAIPI/offlinerl
+[CycleGANDemoRepo]: https://github.com/DukeAIPI/cycle-gan-demo
+[PDSBRepo]: https://github.com/DukeAIPI/lecture-notes
 
 <!--
 
