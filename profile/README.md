@@ -4,7 +4,7 @@ This is a shared organization for current & future Duke AIPI (Artificial Intelli
 The goal is to foster lifelong learning, create a project archive, and collaborate on projects & ideas. 
 Our vision is to develop leaders equipped to build innovative products and services across industries using AI/ML.
 
-Table of Contents [WIP]
+Table of Contents
 ------------------------
 
 * Class Repositories
@@ -12,6 +12,7 @@ Table of Contents [WIP]
   * [Cloud Data Analysis at Scale][CDASRepo]
   * [AIPI510 Class Exercises][510Repo]
   * [AIPI520 Class Exercises][520Repo]
+  * [MLOps Duke AIPI Class Repo][MLOpsRepo]
   * [Python Data Science Bootcamp Notes][PDSBRepo]
  
 * Projects & Demos
@@ -26,6 +27,7 @@ Table of Contents [WIP]
 [OfflineRLRepo]: https://github.com/DukeAIPI/offlinerl
 [CycleGANDemoRepo]: https://github.com/DukeAIPI/cycle-gan-demo
 [PDSBRepo]: https://github.com/DukeAIPI/lecture-notes
+[MLOpsRepo]: https://github.com/DukeAIPI/mlops-duke-aipi
 
 <!--
 
