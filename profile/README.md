@@ -18,6 +18,7 @@ Table of Contents
 * Projects & Demos
   * [AIPI530 DeepRL final project example][OfflineRLRepo]
   * [CycleGAN demo][CycleGANDemoRepo]
+  * [Wikipedia Generative Summarizer][WikiSumRepo]
 
 
 [540Repo]: https://github.com/DukeAIPI/AIPI540-Deep-Learning-Applications
@@ -28,6 +29,7 @@ Table of Contents
 [CycleGANDemoRepo]: https://github.com/DukeAIPI/cycle-gan-demo
 [PDSBRepo]: https://github.com/DukeAIPI/lecture-notes
 [MLOpsRepo]: https://github.com/DukeAIPI/mlops-duke-aipi
+[WikiSumRepo]: https://github.com/DukeAIPI/wiki-generative-summarization 
 
 <!--
 
