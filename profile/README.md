@@ -19,6 +19,7 @@ Table of Contents
   * [AIPI530 DeepRL final project example][OfflineRLRepo]
   * [CycleGAN demo][CycleGANDemoRepo]
   * [Wikipedia Generative Summarizer][WikiSumRepo]
+  * [AutoML - Ludwig & FLAML][AutoMLRepo]
 
 
 [540Repo]: https://github.com/DukeAIPI/AIPI540-Deep-Learning-Applications
@@ -30,7 +31,7 @@ Table of Contents
 [PDSBRepo]: https://github.com/DukeAIPI/lecture-notes
 [MLOpsRepo]: https://github.com/DukeAIPI/mlops-duke-aipi
 [WikiSumRepo]: https://github.com/DukeAIPI/wiki-generative-summarization 
-[AutoML (Ludwig & FLAML) Experiment]: https://github.com/DukeAIPI/automl-neo
+[AutoMLRepo]: https://github.com/DukeAIPI/automl-neo
 
 <!--
 
