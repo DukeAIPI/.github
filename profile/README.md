@@ -30,6 +30,7 @@ Table of Contents
 [PDSBRepo]: https://github.com/DukeAIPI/lecture-notes
 [MLOpsRepo]: https://github.com/DukeAIPI/mlops-duke-aipi
 [WikiSumRepo]: https://github.com/DukeAIPI/wiki-generative-summarization 
+[AutoML (Ludwig & FLAML) Experiment]: https://github.com/DukeAIPI/automl-neo
 
 <!--
 
